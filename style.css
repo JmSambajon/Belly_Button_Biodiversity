@@ -1,0 +1,6 @@
+.jumbotron {
+    background-image: url("images/jumbotron_image.png");
+    background-size: cover;
+    text-align: center;
+    color: rgb(255, 0, 0)
+  }
